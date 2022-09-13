@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true&&show_icons=true)
 
 
 <p align="left">
