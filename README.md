@@ -1,6 +1,26 @@
 ### Hi there 👋
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="https://raw.githubusercontent.com/kenta1996/kenta1996/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenta1996&show_icons=true" height="158px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenta1996&layout=compact" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kenta1996&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true&&show_icons=true)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/アカウント名/posts.svg)](http://qiita.com/アカウント名)
+
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenta1996&theme=dracula -->
 
