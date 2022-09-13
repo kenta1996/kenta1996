@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true&&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenta1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenta1996&theme=dracula
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenta1996&theme=dracula -->
 
 
 
