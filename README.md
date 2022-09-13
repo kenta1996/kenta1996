@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true&&show_icons=true)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/アカウント名/posts.svg)](http://qiita.com/アカウント名)
 
 
 
