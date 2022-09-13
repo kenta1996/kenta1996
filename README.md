@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996&count_private=true)
+
 
 <p align="left">
   <a href="https://github.com/kenta1996/kenta1996/">
