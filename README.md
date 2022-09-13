@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenta1996)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/kenta1996/kenta1996/">
     <img src="https://komarev.com/ghpvc/?username=kenta1996" alt="kenta1996" />
