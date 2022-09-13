@@ -6,7 +6,7 @@
 
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/kenta1996/kenta1996/">
     <img src="https://komarev.com/ghpvc/?username=kenta1996" alt="kenta1996" />
   </a>
@@ -22,7 +22,9 @@
   <a href="https://stackoverflow.com/users/5720201/kenta1996">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-</p>
+</p> -->
+
+
 <!--
 **kenta1996/kenta1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
